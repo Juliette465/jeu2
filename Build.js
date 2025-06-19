@@ -1,0 +1,1 @@
+// Contenu simulé du jeu WebGL (JS)
